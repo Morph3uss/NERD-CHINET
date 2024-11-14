@@ -30,7 +30,7 @@ To work with this project, you will need:
 ## Contributors
 - **Elvis**: Lead on network architecture and topology design.
 - **Merban**: Focus on security measures and protocols.
-- **Rubben**: Responsible for cost analysis and documentation.
+- **Ruben**: Responsible for cost analysis and documentation.
 
 ## License
 This project is licensed under the Becode License - see the [LICENSE](LICENSE) file for details.
